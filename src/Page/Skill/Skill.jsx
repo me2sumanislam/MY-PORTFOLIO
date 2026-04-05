@@ -35,7 +35,9 @@ const TechStack = () => {
   ];
 
   return (
-    <section className="py-28 bg-white overflow-hidden">
+    /* এখানে id="services" যোগ করা হয়েছে যাতে সাইডবার লিংকের সাথে কানেক্ট হয় */
+    /* scroll-mt-20 দেওয়া হয়েছে যাতে স্ক্রল করার পর উপরে কিছুটা জায়গা থাকে */
+    <section id="services" className="py-28 bg-white overflow-hidden scroll-mt-20">
       <div className="container mx-auto px-6">
         
         {/* Header Section: Large Faint "SKILLS" Background */}
