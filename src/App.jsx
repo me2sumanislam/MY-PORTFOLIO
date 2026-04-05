@@ -1,6 +1,7 @@
  import React from 'react';
 import { Typewriter } from 'react-simple-typewriter';
 import About from './Page/About/About';
+import MySkills from './Page/Skill/Skill';
  
 
 const App = () => {
@@ -16,7 +17,7 @@ const App = () => {
             className="w-full h-full object-cover"
           />
         </div>
-        <h2 className="text-2xl font-bold mb-12 tracking-wide text-white">Md. Forhad</h2>
+        <h2 className="text-2xl font-bold mb-12 tracking-wide text-white">Md. Sumon </h2>
         <nav className="flex flex-col space-y-6 text-center w-full text-gray-400 font-medium">
           <a href="#home" className="text-[#20c997]">Home</a>
           <a href="#about" className="hover:text-[#20c997] transition">About Me</a>
@@ -74,7 +75,7 @@ const App = () => {
 
         {/* ৩. এবাউট সেকশন (আলাদা ফাইল থেকে আসছে) */}
        <About></About>
-
+        <MySkills></MySkills>
         {/* ভবিষ্যতে এখানে আরও সেকশন যোগ করবেন */}
       </div>
     </div>

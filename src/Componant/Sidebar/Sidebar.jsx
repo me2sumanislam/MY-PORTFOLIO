@@ -10,7 +10,7 @@
         />
       </div>
       
-      <h2 className="text-xl font-bold mb-10">Simone Olivia</h2>
+      <h2 className="text-xl font-bold mb-10">Md. Sumon </h2>
 
       {/* নেভিগেশন লিংকস */}
       <nav className="w-full text-center space-y-6">

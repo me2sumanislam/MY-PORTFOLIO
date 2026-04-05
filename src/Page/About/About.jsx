@@ -22,13 +22,14 @@ const About = () => {
           {/* বাম পাশের বর্ণনা */}
           <div className="lg:col-span-2 text-center lg:text-left">
             <h2 className="text-3xl font-bold mb-5">
-              I'm <span className="text-[#20c997]">Md. Forhad Hossain Jibon,</span> a Web Developer
+              I'm <span className="text-[#20c997]">Md. Sumon Islam ,</span> <br />
+              A Web Developer
             </h2>
             <p className="text-gray-600 leading-relaxed text-lg mb-6">
-              I help you build brand for your business at an affordable price. Thousands of clients have procured exceptional results while working with our dedicated team. when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+          "I am ready to add value to your project with fresh ideas and the latest technologies like React!
             </p>
             <p className="text-gray-600 leading-relaxed text-lg">
-              Delivering work within time and budget which meets client’s requirements is our moto. Lorem Ipsum has been the industry's standard dummy text ever when an unknown printer took a galley.
+              As a dedicated newcomer, my core strengths lie in mastering modern web technologies and a mindset for creating pixel-perfect User Interfaces (UI). I am looking for a partner who wants to leverage my skills to grow their business. I don’t just write code; I believe in delivering high-quality, responsive output within deadlines by deeply understanding your requirements.
             </p>
           </div>
 
@@ -37,15 +38,15 @@ const About = () => {
             <ul className="space-y-5">
               <li className="flex justify-between border-b border-gray-200 pb-3">
                 <span className="font-bold text-gray-800">Name:</span> 
-                <span className="text-gray-600">Md. Forhad Hossain Jibon</span>
+                <span className="text-gray-600">Md. Sumon Islam</span>
               </li>
               <li className="flex justify-between border-b border-gray-200 pb-3">
                 <span className="font-bold text-gray-800">Email:</span> 
-                <a href="mailto:your-email@example.com" className="text-[#20c997] hover:underline">chat@simone.com</a>
+                <a href="mailto:me2sumanislam247@gmail.com" className="text-[#20c997] hover:underline">247@gmail.com</a>
               </li>
               <li className="flex justify-between border-b border-gray-200 pb-3">
                 <span className="font-bold text-gray-800">Age:</span> 
-                <span className="text-gray-600">22</span>
+                <span className="text-gray-600">26</span>
               </li>
               <li className="flex justify-between border-b border-gray-200 pb-3">
                 <span className="font-bold text-gray-800">From:</span> 
