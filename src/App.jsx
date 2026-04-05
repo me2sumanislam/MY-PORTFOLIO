@@ -4,6 +4,7 @@ import About from './Page/About/About';
 
 import TechStack from './Page/Skill/Skill';
 import MySkills from './Page/MySkill/MySkill';
+import Contact from './Page/Contact/Contact';
 
 
 const App = () => {
@@ -82,7 +83,8 @@ const App = () => {
 
         {/* ৫. মাই স্কিল সেকশন (Progress Bars) */}
         <MySkills></MySkills> 
-        
+             {/* ৫.  contact সেকশন (Progress Bars) */}
+          <Contact></Contact>
       </div>
     </div>
   );
