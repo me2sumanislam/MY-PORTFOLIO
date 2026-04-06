@@ -2,6 +2,7 @@
 import emailjs from '@emailjs/browser';
 import { 
   FaPhoneAlt, 
+  FaWhatsapp,
   FaEnvelope, 
   FaGlobe, 
   FaTwitter, 
@@ -64,7 +65,11 @@ const Contact = () => {
             <div className="space-y-4">
               <div className="flex items-center gap-3 text-gray-600">
                 <FaPhoneAlt className="text-[#20c997]" />
-                <span>+880 1700 000000</span> {/* আপনার নম্বর দিন */}
+                <span>01749684030</span> {/* আপনার নম্বর দিন */}
+              </div>
+              <div className="flex items-center gap-3 text-gray-600">
+                < FaWhatsapp className="text-[#20c997]" />
+                <span>01749684030</span> {/* আপনার নম্বর দিন */}
               </div>
               <div className="flex items-center gap-3 text-gray-600">
                 <FaEnvelope className="text-[#20c997]" />
@@ -79,7 +84,7 @@ const Contact = () => {
               <div className="flex gap-5 text-gray-400">
                 <a href="#" className="hover:text-[#20c997] transition-all"><FaGlobe size={20} /></a>
                 <a href="#" className="hover:text-[#20c997] transition-all"><FaTwitter size={20} /></a>
-                <a href="#" className="hover:text-[#20c997] transition-all"><FaFacebookF size={20} /></a>
+                <a href="https://www.facebook.com/" className="hover:text-[#20c997] transition-all"><FaFacebookF size={20} /></a>
                 <a href="#" className="hover:text-[#20c997] transition-all"><FaGoogle size={20} /></a>
                 <a href="#" className="hover:text-[#20c997] transition-all"><FaGithub size={20} /></a>
               </div>
