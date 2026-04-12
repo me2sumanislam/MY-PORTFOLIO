@@ -1,35 +1,35 @@
  [
-  { 
-    "id": 1, 
-    "title": "Project Title 1", 
-    "category": "Design", 
-    "img": " https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=2070", 
-    "client": "Ruby Clinton", 
-    "tech": "iOS, HTML5, CSS3, PHP, Java", 
-    "industry": "Art & Design", 
-    "date": "July 16, 2019", 
-    "url": "www.example.com" 
-  },
-  { 
-    "id": 2, 
-    "title": "Project Title 2", 
-    "category": "Brand", 
-    "img": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?q=80&w=1999", 
-    "client": "Alex Smith", 
-    "tech": "React, Tailwind, Node.js", 
-    "industry": "E-commerce", 
-    "date": "August 20, 2025", 
-    "url": "www.shop.com" 
-  },
+ {
+  "id": 1,
+  "title": "Hero.Io - Modern Web Solutions",
+  "category": "Web Application",
+  "img": "img/project-1.png",
+  "client": "Startup Ventures",
+  "tech": "React 19, Tailwind CSS v4, DaisyUI, Vercel",
+  "industry": "Software & Technology",
+  "date": "March 24, 2026",
+  "url": "https://fascinating-kitsune-9bbc85.netlify.app/"
+},
+   {
+  "id": 2,
+  "title": "CS - Advance Ticket Management System",
+  "category": "Admin Dashboard",
+  "img": "img/project-2.png",
+  "client": "Internal Support Team",
+  "tech": "React 19, Tailwind CSS v4, Context API, Lucide Icons",
+  "industry": "Customer Support & IT",
+  "date": "March 10, 2026",
+  "url": "https://your-eticket-project.surge.sh/"
+},
   { 
     "id": 3, 
-    "title": "Project Title 3", 
-    "category": "Photos", 
-    "img": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=2070", 
-    "client": "Music Lab", 
+    "title": "Fit.Foot", 
+    "category": "Locak-E-commerce", 
+    "img": "/fit.foot-logo.png", 
+    "client": "Fit.Foot", 
     "tech": "Next.js, Framer Motion", 
     "industry": "Entertainment", 
     "date": "January 12, 2026", 
-    "url": "www.music.io" 
+    "url": "https://local-e-commerce.vercel.app/" 
   }
 ]

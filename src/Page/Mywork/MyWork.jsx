@@ -116,7 +116,7 @@ const MyWork = () => {
                       </li>
                       <li className="flex items-center gap-3 border-b border-gray-100 pb-2">
                         <FaGlobe className="text-[#20c997]" /> <strong>URL:</strong> 
-                        <a href={`https://${selectedProject.url}`} target="_blank" rel="noreferrer" className="text-[#20c997] hover:underline uppercase text-[10px]">
+                        <a href={`${selectedProject.url}`} target="_blank" rel="noreferrer" className="text-[#20c997] hover:underline uppercase text-[10px]">
                           {selectedProject.url}
                         </a>
                       </li>
